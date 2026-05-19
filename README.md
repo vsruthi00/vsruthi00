@@ -12,7 +12,7 @@ Hi, I'm Sruthi 👋<br><br>I build small web apps and work at the intersection o
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vsruthi00&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Notable Quotable
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
