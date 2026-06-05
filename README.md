@@ -52,8 +52,6 @@ Hi, I'm <strong>Sruthi</strong>. I build small web apps and work at the intersec
 <!-- GROWING:START -->
 <img alt="learningwithsruthi" src="assets/growing-learningwithsruthi.light.svg">
 
-<img alt="Between Us" src="assets/growing-between-us.light.svg">
-
 <img alt="maie" src="assets/growing-maie.light.svg">
 
 <img alt="Solari" src="assets/growing-solari.light.svg">
